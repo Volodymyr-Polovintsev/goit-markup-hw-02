@@ -52,6 +52,16 @@ a {
   color: #434455;
 }
 
+.link-addres {
+  color: #434455;
+}
+
+.link-addres:hover,
+.link-addres:active,
+.link-addres:focus {
+  color: #404bbf;
+  text-decoration: underline;
+
 /*Main*/
 
 .section-one {

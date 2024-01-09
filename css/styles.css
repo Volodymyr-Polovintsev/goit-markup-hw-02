@@ -33,6 +33,10 @@ a {
   line-height: 1.5;
   letter-spacing: 0.32px;
 }
+
+.link {
+  color: #2e2f42;
+}
 .link:hover,
 .link:active,
 .link:focus {
@@ -107,7 +111,7 @@ a {
 
 /*our team*/
 
-.h2-team {
+.title-team {
   text-align: center;
   font-size: 36px;
   font-weight: 700;
@@ -145,7 +149,7 @@ a {
 
 /*portfolio-section four*/
 
-.h2-portfolio {
+.title-portfolio {
   text-align: center;
   font-size: 36px;
   font-weight: 700;

@@ -15,7 +15,7 @@ a {
 /* header */
 
 .logo {
-  font-family: Raleway; sans-serif;
+  font-family: Raleway, sans-serif;
   font-size: 18px;
   font-weight: 700;
   line-height: 1.17;
@@ -27,6 +27,7 @@ a {
   color: #2e2f42;
 }
 .menu {
+  color: #2e2f42;
   font-size: 16px;
   font-weight: 500;
   line-height: 1.5;
@@ -74,7 +75,7 @@ a {
 .button:hover,
 .button:active,
 .button:focus {
-  color: #404bbf;
+  background-color: #404bbf;
 }
 
 /*our advantages-section two */
@@ -89,6 +90,7 @@ a {
 }
 
 .part-advantages {
+  color: #2e2f42;
   font-size: 20px;
   font-weight: 500;
   line-height: 1.2;
@@ -112,6 +114,7 @@ a {
   line-height: 1.11;
   letter-spacing: 0.72px;
   text-transform: capitalize;
+  color: #2e2f42;
 }
 
 .section-three {
@@ -124,6 +127,7 @@ a {
   font-weight: 500;
   line-height: 1.2;
   letter-spacing: 0.4px;
+  color: #2e2f42;
 }
 
 .position-team {
@@ -135,6 +139,10 @@ a {
   letter-spacing: 0.32px;
 }
 
+.li-team {
+  background-color: #ffffff;
+}
+
 /*portfolio-section four*/
 
 .h2-portfolio {
@@ -144,6 +152,7 @@ a {
   line-height: 1.11;
   letter-spacing: 0.72px;
   text-transform: capitalize;
+  color: #2e2f42;
 }
 
 .item-portfolio {
@@ -151,6 +160,7 @@ a {
   font-weight: 500;
   line-height: 1.2;
   letter-spacing: 0.4px;
+  color: #2e2f42;
 }
 
 .description-item {
@@ -184,5 +194,5 @@ a {
   line-height: 1.17;
   letter-spacing: 0.54px;
   text-transform: uppercase;
-  color: #4d5ae5; 
+  color: #4d5ae5;
 }
